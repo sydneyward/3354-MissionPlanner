@@ -1,0 +1,48 @@
+                                                    Mission Planner
+
+1. A Calendar Software 
+    1.1 Views 
+1.1.1 Monthly view: show all days in a month, and event snippet for each day 
+1.1.2 Weekly view: show all days in a week, and event snippet for each day 
+1.1.3 Daily view: show all events in a day, sorted by their starting time 
+1.1.4 Agenda view (optional): show all events in future as a list 
+
+
+   1.2 Events 
+1.2.1 Add an event with starting and ending time 
+1.2.2 Check time conflicts when adding events 
+1.2.3 Edit & delete events 
+1.2.4 Event alert  (Reminding with calender events)
+1.2.5 Add holidays
+1.2.6 Import assignments: This is a new feature added to allow students to import their assignments, deadlines, and exams from websites like Blackboard.
+1.2.7 Scan syllabus: Students will also be allowed to scan their syllabus and the information will be read from the scan and put in the calendar.
+
+
+
+
+1. A Calendar Software 
+
+    1.1 Views 
+1.1.1 Monthly view: show all days in a month, and event snippet for each day 
+1.1.2 Weekly view: show all days in a week, and event snippet for each day 
+1.1.3 Daily view: show all events in a day, sorted by their starting time 
+1.1.4 Agenda view (optional): show all events in future as a list 
+
+    1.2 Events 
+1.2.1 Add an event with starting and ending time 
+1.2.2 Check time conflicts when adding events 
+1.2.3 Add weekly periodical events 
+1.2.4 Edit & delete events 
+1.2.5 Event alert (optional) 
+1.2.6 Add/delete event categories 
+1.2.7 Color marking for different category of events 
+
+    1.3 Share (optional) 
+1.3.1 Send event to other calendar users (requiring their permission) through internet 
+
+    1.4 Other 
+1.4.1 Holidays & weekends should be in special colors 
+1.4.2 Zoom in/out, and scroll support when necessary 
+
+
+               
